@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F2 Contest 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>New Employess</h1>
+    <div class="container"> 
+        <form action="" onsubmit="return vaildForm()">
+        <label for="fname" class="ffname">Enter Name</label>
+        <input type="text" id="fname" name="aim">
+        
+        <label for="fname" class="ppname">Enter Profession</label>
+        <input type="text" id="pname" name="aim">
+        
+        <label for="fname" class="aage">Enter Age</label>
+        <input type="number" id="age" name="aim">
+        <br>
+        <p id="error" class="error1"></p>
+            
+        <input type="submit" value="Add user" class="btn">
+    </form>
+    
+    </div>
+    <h3 class="addEmp">Added Employess</h3>
+    <h3 class="addyou">You have 0 Employess.</h3>
+
+    <table class="list" id="storeList">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>Name</th>
+                <th>Profession</th>
+                <th>age</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        </tbody>
+
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>

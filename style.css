@@ -1,0 +1,179 @@
+*{
+    background: black;
+    font-family: 'Inter';
+    font-style: normal;
+}
+h1{
+position: absolute;
+width: 182px;
+height: 29px;
+left: 58px;
+top: 96px;
+color: white;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+}
+.ffname{
+    position: absolute;
+width: 119px;
+height: 25px;
+left: 58px;
+top: 173px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+#fname{
+    box-sizing: border-box;
+
+position: absolute;
+width: 531px;
+height: 56px;
+left: 58px;
+top: 213px;
+
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
+.ppname{
+    position: absolute;
+    width: 157px;
+    height: 25px;
+    left: 647px;
+    top: 173px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #FFFFFF;
+}
+#pname{
+    box-sizing: border-box;
+
+position: absolute;
+width: 531px;
+height: 56px;
+left: 647px;
+top: 213px;
+
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+
+}
+.aage{
+    position: absolute;
+    width: 133.35px;
+    height: 25px;
+    left: 1220px;
+    top: 173px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #FFFFFF;
+}
+#age{
+    box-sizing: border-box;
+
+position: absolute;
+width: 451px;
+height: 56px;
+left: 1220px;
+top: 213px;
+
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
+.btn{
+    position: absolute;
+width: 226px;
+height: 58px;
+left: 58px;
+top: 308px;
+font-size: 18px;
+background: #FFFFFF;;
+}
+.btn{
+    position: absolute;
+width: 139px;
+height: 33px;
+left: 102px;
+top: 320px;
+
+font-family: 'Inter';
+font-style: normal;
+/* font-weight: 300; */
+font-size: 16px;
+/* line-height: 29px; */
+text-align: center;
+
+color: #000000;
+}
+.error1{
+    position: absolute;
+width: 881px;
+height: 29px;
+left: 58px;
+top: 414px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FF4343;
+}
+.addEmp{
+    position: absolute;
+width: 205px;
+height: 29px;
+left: 58px;
+top: 491px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+input{
+    color: white;
+}
+.addyou{
+    position: absolute;
+width: 262px;
+height: 29px;
+left: 58px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.5);
+}
